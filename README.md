@@ -44,17 +44,11 @@ Pinned repositories represent:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant990-hub&show_icons=true&theme=tokyonight" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=vedant990-hub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant990-hub&layout=compact&theme=tokyonight" />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=vedant990-hub&theme=tokyonight&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant990-hub&theme=tokyonight" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant990-hub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
