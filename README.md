@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Vedant Pawar
 
-I’m a **Computer Science student (Class of 2028)** based in **India**, focused on building **production-ready web applications** and **clean, scalable frontends**. I work primarily with **Next.js** and modern React patterns, with an emphasis on performance, SEO, and real-world deployment—not toy projects.
+I’m a **Computer Science student (Class of 2028)** based in **India**, focused on building **production-ready web applications** and **clean, scalable frontends**. I primarily work with **Next.js** and modern React patterns, with an emphasis on **performance, SEO, and real-world deployment**.
 
-I care about **shipping usable software**, not just experimenting.
+I care about **shipping usable software**, not half-baked demos.
 
 - 🔭 Currently working on **Next.js applications**, client websites, and migrations  
 - 🧠 Strong focus on **performance, SEO, and maintainability**  
@@ -30,26 +30,27 @@ I care about **shipping usable software**, not just experimenting.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-| Project | What It Actually Does | Tech |
-|------|----------------------|------|
-| **Website Migration & SEO Fixes** | Migrated legacy React apps to Next.js App Router, fixed indexing and performance issues | Next.js, React |
-| **Client Business Websites** | Built and deployed production websites with SEO, analytics, and conversion focus | Next.js, JavaScript |
-| **Gesture Control Suite** | Real-time gesture recognition for system control and games | Python, OpenCV |
-| **Rockfall Prediction Model** | ML-based geological risk prediction model (SIH 2025) | Python, ML |
+Most of my repositories focus on **web development**, **Next.js**, and practical tooling.  
+I prioritize projects that solve real problems, not tutorial clones.
+
+Pinned repositories represent:
+- Client-facing web applications  
+- Framework migrations and performance fixes  
+- Practical automation and utilities  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantPawar&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPawar&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant990-hub&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant990-hub&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantPawar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant990-hub&theme=tokyonight" />
 </div>
 
 ---
