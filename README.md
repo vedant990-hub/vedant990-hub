@@ -45,8 +45,11 @@ Pinned repositories represent:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant990-hub&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant990-hub&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant990-hub&show_icons=true&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant990-hub&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
